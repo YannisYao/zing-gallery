@@ -1,5 +1,5 @@
 module.exports = {
-	title: 'Zing Gallery',
+	title: "Yannis's Gallery ",
 	wording: {
 		noAccess: '抱歉，你没有权限访问'
 	},
